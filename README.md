@@ -1,4 +1,4 @@
-# Taboo
+# Webapp-template
 
 Contributors:
 TeamHaircut
