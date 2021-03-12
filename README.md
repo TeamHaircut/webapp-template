@@ -1,4 +1,4 @@
 # Webapp-template
 
-Contributors:
+<br>Contributors:
 TeamHaircut
