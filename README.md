@@ -1,3 +1,3 @@
 # Webapp-template
-Contributors:<br>
+Contributors:<br><br>
 TeamHaircut
